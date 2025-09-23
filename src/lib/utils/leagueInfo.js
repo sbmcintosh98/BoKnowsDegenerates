@@ -7,12 +7,33 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <h3>Week 3 Power Rankings</h3>
+  <p>Alright, you glorious train wrecks. Three weeks are in the books, and the lines are being drawn. The contenders are rising, the pretenders are being exposed, and a few of you are already staring into the abyss of a truly pathetic season. Let's break down the chaos.</p>
+
+  <h3>The Undefeated Gods Among Men</h3>
+  <p>At the top, sitting on a throne of vanquished opponents, we have two teams at a perfect 3-0.</p>
+  <p><strong>1. robbyhenry (Robby Henry):</strong> Well, well, well. Look who's back. The reigning champ clearly wasn't satisfied with just taking your money last year; now he's decided to take your dignity, too. He’s not even scoring the most points, he’s just… winning. It’s sickening, really. The crown sits heavy, but Robby’s making it look easy.</p>
+  <p><strong>2. FreeLuigi (alxharris):</strong> Hold the phone… Alex Harris?! A member of the notoriously pedestrian "Soccer Firm" is undefeated?! What timeline are we in? Did you accidentally auto-draft a superteam, or did you sell your soul for this? We’re all waiting for the inevitable collapse, but for now, enjoy the view from the top.</p>
+
+  <h3>The "Yeah, We're Good" Blob (The 2-1 Crowd)</h3>
+  <p>This is where the real action is. A massive pile-up of teams who have tasted both sweet victory and bitter defeat.</p>
+  <p><strong>3. CeeDeez Nutz (jfutrell):</strong> Jake, my man, you are the Points Scored KING, leading the league with a massive 376.5 PF. But that "1" in the loss column proves that points don't always equal perfection. It’s like having a Ferrari with a flat tire. Looks great, but you’re not getting where you need to go just yet.</p>
+  <p><strong>4. Show Me Them TDs (TheTanMan41):</strong> Right behind Jake is Tanner, the league's second-highest scorer. You're putting up video game numbers, but a 2-1 record means one of your opponents actually remembered to set their lineup. Tough break.</p>
+  <p><strong>7. oliverguice (Oliver Guice):</strong> LET'S TALK ABOUT LUCK! Oliver has the LOWEST Points Against in the entire league by a country mile (200.38?!). Your opponents’ teams apparently just fall apart when they play you. You magnificent, lucky bastard. You are winning with smoke, mirrors, and your opponents having catastrophic bye weeks.</p>
+  <p>Shoutout to <strong>mbrett2012</strong> and <strong>BUTT STUFF (ColeFink)</strong> for hanging tough in the 2-1 bracket as well. You're still in the fight.</p>
+
+  <h3>The Panic Button Tier (1-2)</h3>
+  <p>This is where the anxiety starts to creep in.</p>
+  <p><strong>8. Top of the Epstein List (hyswon):</strong> A questionable team name for a questionable record. You're teetering on the edge of disaster, Steven.</p>
+  <p><strong>9. Horrendous Henry's (stephensalex2):</strong> From championship runner-up to this. Alex, you're looking more "Horrendous" than "Henry" right now. Time for a team meeting.</p>
+
+  <h3>WELCOME TO THE DUMPSTER FIRE (0-3)</h3>
+  <p>Oh, this is beautiful. A trifecta of misery. The winless wonders.</p>
+  <p><strong>10. Butker? I hardly know her (dimeandaquarter):</strong> Dyer! My sweet prince! Last year's regular-season champion is now the league's doormat. From the penthouse to the outhouse. You're scoring points, but your defense against other teams is apparently optional. A truly spectacular fall from grace.</p>
+  <p><strong>11. Samwell Goodell (sbmcintosh98):</strong> THE COMMISSIONER! IN THE MUD! Sam, you run this league, but you can't seem to run your own team. You're like a cop who keeps getting speeding tickets. The hypocrisy is delicious.</p>
+  <p><strong>12. Palmer Reed (Not Pictured):</strong> And then there's Palmer. So far in last place, you didn't even make the screenshot. You are the foundation upon which this league is built—a firm, reliable source of wins for everyone else. We salute you.</p>
+
+  <p>Week 4 is coming. The undefeated will be tested, and the winless will pray for a miracle. Good luck, you degenerates. You'll need it.</p>
 `;
 
 /*   STEP 3   */
