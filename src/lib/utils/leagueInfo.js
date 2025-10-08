@@ -7,33 +7,28 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <h3>Week 3 Power Rankings</h3>
-  <p>Alright, you glorious train wrecks. Three weeks are in the books, and the lines are being drawn. The contenders are rising, the pretenders are being exposed, and a few of you are already staring into the abyss of a truly pathetic season. Let's break down the chaos.</p>
-
-  <h3>The Undefeated Gods Among Men</h3>
-  <p>At the top, sitting on a throne of vanquished opponents, we have two teams at a perfect 3-0.</p>
-  <p><strong>1. robbyhenry (Robby Henry):</strong> Well, well, well. Look who's back. The reigning champ clearly wasn't satisfied with just taking your money last year; now he's decided to take your dignity, too. He’s not even scoring the most points, he’s just… winning. It’s sickening, really. The crown sits heavy, but Robby’s making it look easy.</p>
-  <p><strong>2. FreeLuigi (alxharris):</strong> Hold the phone… Alex Harris?! A member of the notoriously pedestrian "Soccer Firm" is undefeated?! What timeline are we in? Did you accidentally auto-draft a superteam, or did you sell your soul for this? We’re all waiting for the inevitable collapse, but for now, enjoy the view from the top.</p>
-
-  <h3>The "Yeah, We're Good" Blob (The 2-1 Crowd)</h3>
+  <h3>WEEK 5 RECAP: The Contenders Emerge & The Pretenders Falter</h3>
+  <p>Alright, you glorious train wrecks. Five weeks are in the books, and the lines are being drawn. The contenders are rising, the pretenders are being exposed, and a few of you are already staring into the abyss of a truly pathetic season. Let's break down the chaos.</p>
+  
+  <h3>The Penthouse Suite (The 4-1 Club)</h3>
+  <p>At the top, sitting on a throne of vanquished opponents, we have two teams who have separated from the pack.</p>
+  <p><strong>1. robby henry (Robby Henry):</strong> Well, well, well. Our LA film guru suffered his first loss, and it was a spectacular failure of management. Starting <strong>TWO INJURED PLAYERS</strong> is a rookie move we didn't expect from the top dog. This catastrophic error proves the crown is heavy, and Robby is showing he can bleed. The sharks are circling.</p>
+  <p><strong>2. FreeLuigi (Alex Harris):</strong> The dream of a perfect season is dead. After a 4-0 start, Alex got absolutely dismantled by Tanner in a league-shaking blowout. We were all waiting for the inevitable collapse, and this week felt like the first tremor. Enjoy the view from near the top while it lasts.</p>
+  
+  <h3>The Mayhem in the Middle (The 3-2 & 2-3 Mosh Pit)</h3>
   <p>This is where the real action is. A massive pile-up of teams who have tasted both sweet victory and bitter defeat.</p>
-  <p><strong>3. CeeDeez Nutz (jfutrell):</strong> Jake, my man, you are the Points Scored KING, leading the league with a massive 376.5 PF. But that "1" in the loss column proves that points don't always equal perfection. It’s like having a Ferrari with a flat tire. Looks great, but you’re not getting where you need to go just yet.</p>
-  <p><strong>4. Show Me Them TDs (TheTanMan41):</strong> Right behind Jake is Tanner, the league's second-highest scorer. You're putting up video game numbers, but a 2-1 record means one of your opponents actually remembered to set their lineup. Tough break.</p>
-  <p><strong>7. oliverguice (Oliver Guice):</strong> LET'S TALK ABOUT LUCK! Oliver has the LOWEST Points Against in the entire league by a country mile (200.38?!). Your opponents’ teams apparently just fall apart when they play you. You magnificent, lucky bastard. You are winning with smoke, mirrors, and your opponents having catastrophic bye weeks.</p>
-  <p>Shoutout to <strong>mbrett2012</strong> and <strong>BUTT STUFF (ColeFink)</strong> for hanging tough in the 2-1 bracket as well. You're still in the fight.</p>
-
-  <h3>The Panic Button Tier (1-2)</h3>
-  <p>This is where the anxiety starts to creep in.</p>
-  <p><strong>8. Top of the Epstein List (hyswon):</strong> A questionable team name for a questionable record. You're teetering on the edge of disaster, Steven.</p>
-  <p><strong>9. Horrendous Henry's (stephensalex2):</strong> From championship runner-up to this. Alex, you're looking more "Horrendous" than "Henry" right now. Time for a team meeting.</p>
-
-  <h3>WELCOME TO THE DUMPSTER FIRE (0-3)</h3>
-  <p>Oh, this is beautiful. A trifecta of misery. The winless wonders.</p>
-  <p><strong>10. Butker? I hardly know her (dimeandaquarter):</strong> Dyer! My sweet prince! Last year's regular-season champion is now the league's doormat. From the penthouse to the outhouse. You're scoring points, but your defense against other teams is apparently optional. A truly spectacular fall from grace.</p>
-  <p><strong>11. Samwell Goodell (sbmcintosh98):</strong> THE COMMISSIONER! IN THE MUD! Sam, you run this league, but you can't seem to run your own team. You're like a cop who keeps getting speeding tickets. The hypocrisy is delicious.</p>
-  <p><strong>12. Palmer Reed (Not Pictured):</strong> And then there's Palmer. So far in last place, you didn't even make the screenshot. You are the foundation upon which this league is built—a firm, reliable source of wins for everyone else. We salute you.</p>
-
-  <p>Week 4 is coming. The undefeated will be tested, and the winless will pray for a miracle. Good luck, you degenerates. You'll need it.</p>
+  <p><strong>3. Show Me Them TDs (Tanner Maycumber):</strong> Here comes the car salesman! Tanner put the entire league on notice by dropping a ridiculous <strong>161.18 points</strong>. He now has the highest Points For in the league by a country mile. If his team is a vehicle, it's a Bugatti, and he's making everyone else look like they're driving lemons.</p>
+  <p><strong>4. A Sad Auburn Fan (Jake Futrell):</strong> The team name continues to be a painful, self-fulfilling prophecy. Losing a high-scoring nail-biter is one thing, but losing it to the league's resident Alabama fan, Oliver, is just poetic misery. Another Saturday, another Auburn heartbreak.</p>
+  <p><strong>5. Top of the Epstein List (Steven Won):</strong> Steven capitalized on Robby's stunning lack of awareness to secure a dominant win. He's quietly putting together a solid season and is proving to be a dangerous opponent, especially if you forget to check your lineup.</p>
+  <p><strong>6. oliverguice (Oliver Guice):</strong> The Bama fan from Nola continues to roll. Securing a win over his bitter rival Jake must have felt sweet. His team is putting up points and proving to be a legitimate threat in the crowded middle tier.</p>
+  <p>Shoutout to the 2-3 teams clawing their way back to .500. <strong>Horrendous Henry's (Alex Stephens)</strong>, <strong>Samwell Goodell (The Commish)</strong>, <strong>BUTT STUFF (Cole Fink)</strong>, and <strong>mbrett2012 (Brett Newton)</strong> are all still in the fight, but the clock is ticking.</p>
+  
+  <h3>The Basement Brigade (The 1-4 Toilet Bowl)</h3>
+  <p>Oh, this is beautiful. A duo of misery. The lonely wanderers.</p>
+  <p><strong>11. Butker? I hardly know her (Dyer McWhorter):</strong> A WIN! A GLORIOUS WIN! Dyer has escaped the desolate wasteland of the winless! In between cake tastings and floral arrangements, he found the time to secure a victory and climb out of the league's outhouse. A truly spectacular rise from the ashes.</p>
+  <p><strong>12. Nawfside Beaner (Palmer Reed):</strong> And then there's Palmer. As the new sole occupant of last place, you are the foundation upon which this league is built—a firm, reliable source of wins for everyone else. We salute your sacrifice.</p>
+  
+  <p>Week 6 is coming. The mighty will be tested, and the winless will pray for… oh wait, that’s just Palmer now. Good luck, you degenerates. You'll need it.</p>
 `;
 
 /*   STEP 3   */
