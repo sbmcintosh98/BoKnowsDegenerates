@@ -7,28 +7,47 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <h3>WEEK 5 RECAP: The Contenders Emerge & The Pretenders Falter</h3>
-  <p>Alright, you glorious train wrecks. Five weeks are in the books, and the lines are being drawn. The contenders are rising, the pretenders are being exposed, and a few of you are already staring into the abyss of a truly pathetic season. Let's break down the chaos.</p>
-  
-  <h3>The Penthouse Suite (The 4-1 Club)</h3>
-  <p>At the top, sitting on a throne of vanquished opponents, we have two teams who have separated from the pack.</p>
-  <p><strong>1. robby henry (Robby Henry):</strong> Well, well, well. Our LA film guru suffered his first loss, and it was a spectacular failure of management. Starting <strong>TWO INJURED PLAYERS</strong> is a rookie move we didn't expect from the top dog. This catastrophic error proves the crown is heavy, and Robby is showing he can bleed. The sharks are circling.</p>
-  <p><strong>2. FreeLuigi (Alex Harris):</strong> The dream of a perfect season is dead. After a 4-0 start, Alex got absolutely dismantled by Tanner in a league-shaking blowout. We were all waiting for the inevitable collapse, and this week felt like the first tremor. Enjoy the view from near the top while it lasts.</p>
-  
-  <h3>The Mayhem in the Middle (The 3-2 & 2-3 Mosh Pit)</h3>
-  <p>This is where the real action is. A massive pile-up of teams who have tasted both sweet victory and bitter defeat.</p>
-  <p><strong>3. Show Me Them TDs (Tanner Maycumber):</strong> Here comes the car salesman! Tanner put the entire league on notice by dropping a ridiculous <strong>161.18 points</strong>. He now has the highest Points For in the league by a country mile. If his team is a vehicle, it's a Bugatti, and he's making everyone else look like they're driving lemons.</p>
-  <p><strong>4. A Sad Auburn Fan (Jake Futrell):</strong> The team name continues to be a painful, self-fulfilling prophecy. Losing a high-scoring nail-biter is one thing, but losing it to the league's resident Alabama fan, Oliver, is just poetic misery. Another Saturday, another Auburn heartbreak.</p>
-  <p><strong>5. Top of the Epstein List (Steven Won):</strong> Steven capitalized on Robby's stunning lack of awareness to secure a dominant win. He's quietly putting together a solid season and is proving to be a dangerous opponent, especially if you forget to check your lineup.</p>
-  <p><strong>6. oliverguice (Oliver Guice):</strong> The Bama fan from Nola continues to roll. Securing a win over his bitter rival Jake must have felt sweet. His team is putting up points and proving to be a legitimate threat in the crowded middle tier.</p>
-  <p>Shoutout to the 2-3 teams clawing their way back to .500. <strong>Horrendous Henry's (Alex Stephens)</strong>, <strong>Samwell Goodell (The Commish)</strong>, <strong>BUTT STUFF (Cole Fink)</strong>, and <strong>mbrett2012 (Brett Newton)</strong> are all still in the fight, but the clock is ticking.</p>
-  
-  <h3>The Basement Brigade (The 1-4 Toilet Bowl)</h3>
-  <p>Oh, this is beautiful. A duo of misery. The lonely wanderers.</p>
-  <p><strong>11. Butker? I hardly know her (Dyer McWhorter):</strong> A WIN! A GLORIOUS WIN! Dyer has escaped the desolate wasteland of the winless! In between cake tastings and floral arrangements, he found the time to secure a victory and climb out of the league's outhouse. A truly spectacular rise from the ashes.</p>
-  <p><strong>12. Nawfside Beaner (Palmer Reed):</strong> And then there's Palmer. As the new sole occupant of last place, you are the foundation upon which this league is built—a firm, reliable source of wins for everyone else. We salute your sacrifice.</p>
-  
-  <p>Week 6 is coming. The mighty will be tested, and the winless will pray for… oh wait, that’s just Palmer now. Good luck, you degenerates. You'll need it.</p>
+  <h3>WEEK 8 RECAP: The King is Dead & The Collusion is Real</h3>
+  <p>Gentlemen, the official Week 8 standings are in, and the playoff picture is taking shape. It is <strong>grim</strong> for some of you. With only <strong>three weeks left</strong> until the playoffs, the panic is real. The top eight teams get a ticket to the dance. Seven wins guarantees you a spot, which means one man (Alex Harris) is already laughing at the rest of us from his penthouse. For others... well, this was a week of pure, unadulterated humiliation.</p>
+   
+  <h3>THE WEEK 8 DISASTERS & VICTORIES</h3>
+  <p><strong>Oliver's Bama Boys (117.72) def. The Commish (109.76)</strong><br>The league is in shambles. The Commissioner, Sam McIntosh, is officially <strong>OUT</strong> of the playoff picture. After spending all last week playing "Fantasy Judge," staging a sham trial, and allegedly engaging in secret, 18-minute-long "collusion calls" with his cousin, he <strong>forgot to manage his actual team.</strong> He falls to 3-5 and <strong>9th place</strong>. He is a corrupt <i>and</i> incompetent leader. Oliver Guice—the NOLA/Bama fan—gets the last laugh as his star, Rashee Rice, came through in the clutch to seal the Commish's fate. Pathetic.</p>
+   
+  <p><strong>Tanner's Used Cars (102.38) def. hyswon (100.52)</strong><br>Good. Lord. What a week for Steven Won. First, he gets dragged into Fantasy Court for his 2:30 AM trade shenanigans. He watches his own lawyer, Jerome, prove to the entire league that he's an "emotional, impulsive fool." He gets exposed as a pawn in Robby's "chaos" game. Then, after that public humiliation, he has to play a match. And who? <strong>Tanner Maycumber.</strong> Won loses <strong>another</strong> soul-crushing squeaker to the man who ended his season last year by 0.02 points. This time, he loses by 1.86 points, sealed by a <strong>final-drive Marcus Mariota interception</strong>. Tanner doesn't just live rent-free in Won's head; he owns the deed, has remodeled the kitchen, and is building a guest house.</p>
+   
+  <p><strong>Robby's Chaos Crew (129.56) def. Jake's Freefall (119.42)</strong><br>Look who's having fun now! Robby "Hollywood" Henry, fresh off his victory in Fantasy Court, proves that "chaos" is a winning strategy. He admitted in open court (via text) that he just wanted to "let chaos ensue" and that "ngl this is fun." Well, he got the chaos, the trade was voided, <i>and</i> he puts up the league-high score. That’s two wins in a row, moving him to a commanding <strong>6-2 record in 2nd place</strong>. The villain won.</p>
+   
+  <p><strong>Alex Harris (107.22) def. Dyer's Wedding Planners (96.38)</strong><br>Alex Harris is just mocking us at this point. The man is <strong>7-1</strong>, has the highest PF, and has officially <strong>CLINCHED</strong> a playoff spot. He started a team of benchwarmers and <i>still</i> won. He is a fantasy god walking among insects. Meanwhile, Dyer McWhorter falls to <strong>2-6</strong> and 11th place. His season is over. Go back to your wedding seating charts, Dyer.</p>
+   
+  <p><strong>Alex Stephens' Horrendous Henrys (114.00) def. Palmer's 50-Piece (50.98)</strong><br>My God. Palmer, what is this? <strong>50.98 POINTS.</strong> You are the <strong>1-7</strong> laughingstock of the league. You scored 50. In a full-PPR league. Alex Stephens didn't even have to try. You lost by 63 points. This is an embarrassment. You are the Washington Generals of this league.</p>
+   
+  <p><strong>Brett's Clean Water (111.22) def. Cole's Cousins (94.32)</strong><br>Brett Newton (4-4) gets a solid win and secures his 7th-place playoff footing. But the real story is Cole Fink. Despite the loss, Cole (3-5) is clinging to the <strong>8th and final playoff spot</strong> thanks to his tiebreaker over the Commish. He is the bubble. He is the gatekeeper. And right now, he looks incredibly shaky.</p>
+   
+  <h3>🔮 WEEK 9 PREVIEW: Judgement Day 🔮</h3>
+  <p>Look ahead, degenerates. The matchups for Week 9 are set, and the playoff implications are massive.</p>
+   
+  <p><strong>MATCHUP OF THE WEEK</strong><br><strong>FreeLuigi (alxharris, 7-1) vs. Team oliverguice (5-3)</strong><br>The 7-1, clinched-and-untouchable juggernaut faces the 5-3 'BAMA fan. This is a battle for a top seed. Sleeper <i>still</i> disrespects Alex Harris, giving him only a 43% chance to win. Can Oliver pull off the upset? (No. No, he can't.)</p>
+   
+  <p><strong>THE "DEAR GOD, MY EYES" TOILET BOWL</strong><br><strong>Samwell Goodell (sbmcintosh98, 3-5) vs. Butker? I hardly know her (dimeandaquarter, 2-6)</strong><br>This is it. The loser-leaves-town match. This is the Commish's entire season. At 3-5 in 9th place, a loss to the 2-6 Dyer is a literal season-ender. The Commish is a massive 87% favorite with his new, panic-traded team. If he screws this up, he should be impeached.</p>
+   
+  <p><strong>THE PUBLIC EXECUTION</strong><br><strong>Nawfside Beaner (palmerreed, 1-7) vs. robby henry (6-2)</strong><br>The 1-7 team that just scored 50 points now faces the red-hot, 6-2, 2nd-place team. This is a scheduled bye week for Robby. Palmer, just... just try not to get outscored by 60 again.</p>
+   
+  <p><strong>THE BUBBLE BATTLES (WIN-OR-GO-HOME)</strong><br>These three games will decide who is in and who is out.<br>
+   * <strong>Tanner (5-3) vs. Cole (3-5):</strong> This is Cole's <i>season</i>. As the 8th seed, a loss to the 3rd-place Tanner (a 90% favorite) almost certainly ends his hopes.<br>
+   * <strong>Won (5-3) vs. Brett (4-4):</strong> Won needs to bounce back from his Week from Hell, while Brett (7th) needs a win to keep his 4-4 ass from falling out of the playoffs.<br>
+   * <strong>Alex Stephens (3-5) vs. Jake (4-4):</strong> A desperate battle. Jake (6th) is trying to stop his freefall. Alex S. (10th) <i>must</i> win to have any shot at leapfrogging the Commish and Cole.</p>
+ 
+<h3>⚖️ SPECIAL REPORT: The Trial of the Century (RECAP)</h3>
+<p>As a reminder, the "Fantasy Court" case of <strong>Robby vs. Won</strong> is officially closed. It was a sham. Won started it with his 2:30 AM "hold the trade" text. But he was out-maneuvered. The case revealed a secret 18-minute "collusion call" between the Commish and Robby. It revealed Robby's <i>true</i> motive was "buyer's remorse" and a desire for "chaos." Won, who started this whole thing with his "clapping cheeks" testimony, was reduced to a crying, blubbering mess, proven by his <i>own lawyer</i> to be an "emotional, impulsive fool." The trade is <strong>VOIDED</strong>. Robby keeps his player. Won keeps his. And the Commish's (and Robby's) integrity is forever tarnished.</p>
+ 
+<h3>🚨 SPECIAL REPORT: The Commissioner's PANIC!</h3>
+<p>Speaking of the Commish, his 3-5 record has sent him into a full-on, team-destroying panic. He has made a flurry of trades that reek of desperation.<br>
+ 1. <strong>FIRE SALE:</strong> He traded <strong>Bijan Robinson</strong> to Tanner for Puka Nacua and Quinshon Judkins.<br>
+ 2. <strong>THE CHARITY CASE:</strong> He then traded <strong>AJ Brown, Deebo Samuel, AND Zach Charbonnet</strong> to... <i>Palmer</i>? (The 50-point guy?) for Ashton Jeanty. Is this pity? Is this money laundering? An impeachable offense.<br>
+ 3. <strong>THE HAIL MARY:</strong> He then immediately flipped <strong>Puka, Judkins, and Drake Maye</strong> for <strong>Christian McCaffrey and Ladd McConkey.</strong><br>
+ This is a complete mental breakdown, live for all of us to see.</p>
+ 
+<p>The playoffs are in 3 weeks. Good luck, gentlemen.</p>
 `;
 
 /*   STEP 3   */
