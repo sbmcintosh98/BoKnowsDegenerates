@@ -7,6 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
+  <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mlb.com%2Fnews%2Fbo-jackson-inducted-into-royals-hall-of-fame&psig=AOvVaw3esXPsTRq6qNnuH0T9NL5p&ust=1761858361733000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCNDnqIKoypADFQAAAAAdAAAAABAR" width = "100%">
   <h3>WEEK 8 RECAP: The King is Dead & The Collusion is Real</h3>
   <p>Gentlemen, the official Week 8 standings are in, and the playoff picture is taking shape. It is <strong>grim</strong> for some of you. With only <strong>three weeks left</strong> until the playoffs, the panic is real. The top eight teams get a ticket to the dance. Seven wins guarantees you a spot, which means one man (Alex Harris) is already laughing at the rest of us from his penthouse. For others... well, this was a week of pure, unadulterated humiliation.</p>
    
