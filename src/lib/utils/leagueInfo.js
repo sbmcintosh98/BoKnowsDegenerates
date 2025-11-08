@@ -11,8 +11,7 @@ export const homepageText = `
   <source src="https://img.mlbstatic.com/mlb-images/image/private/t_16x9/mlb/m3jhdhqhlb2avjmupmdh.mp4" type="video/mp4">
   Your browser does not support the video tag.
   </video>
-  <h3>WEEK 8 RECAP: The King is Dead & The Collusion is Real</h3>
-  <p>Gentlemen, the official Week 8 standings are in, and the playoff picture is taking shape. It is <strong>grim</strong> for some of you. With only <strong>three weeks left</strong> until the playoffs, the panic is real. The top eight teams get a ticket to the dance. Seven wins guarantees you a spot, which means one man (Alex Harris) is already laughing at the rest of us from his penthouse. For others... well, this was a week of pure, unadulterated humiliation.</p>
+  <h3>WEEK 9 RECAP: The Investigation Begins</h3>
    
   <p>In the fantasy football league known as BoKnowsDegenerates, the managers are separated by two distinct groups: <strong>The High Rollers</strong> playing for the championship, and <strong>The Folded</strong> who are just trying to survive. This week, the game got real. These are their stories.</p>
 
