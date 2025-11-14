@@ -11,101 +11,68 @@ export const homepageText = `
   <source src="https://img.mlbstatic.com/mlb-images/image/private/t_16x9/mlb/m3jhdhqhlb2avjmupmdh.mp4" type="video/mp4">
   Your browser does not support the video tag.
   </video>
-  <h3>WEEK 9 RECAP: The Investigation Begins</h3>
+  <h3>WEEK 10 RECAP: The Gobbler Returns</h3>
    
   <p>In the fantasy football league known as BoKnowsDegenerates, the managers are separated by two distinct groups: <strong>The High Rollers</strong> playing for the championship, and <strong>The Folded</strong> who are just trying to survive. This week, the game got real. These are their stories.</p>
 
 <p style="text-align: center; font-weight: bold; margin: 20px 0;">DUN DUN</p>
 
-<h3>💀 Special Victims Unit: The DegenerateGames 💀</h3>
+<h3>💀 Special Victims Unit: The DegenerateGames - Episode 2 💀</h3>
 
-<p>The scene was a bloodbath. Detective Ice-T kicked open the door to the guest locker room, his face grim.</p>
+<p>The air in the cold office hung thick with the metallic scent of despair. Detective Ice-T sighed, rubbing the bridge of his nose. "Last week, we called it the Week 9 execution of <strong>Palmer Reed (1-8)</strong>. It was quick, clean—a warning shot. This... this is ritual."</p>
 
-<p>"Alright, talk to me."</p>
+<p>The M.E. nodded, his voice low. "The victim is <strong>Dyer McWhorter</strong>. Record 3-7. He fought, Detective. He pulled off a 104-91 <strong>win over Cole Fink</strong>. He won the battle, but the math was merciless. The system claimed him anyway."</p>
 
-<p>"It's ugly, Detective," the M.E. said, pulling a sheet over the corpse. "The victim is the 2025 campaign of <strong>Palmer Reed (palmerreed)</strong>. Officially 1-8. Cause of death was a 63-point-margin execution, courtesy of <strong>Robby Henry (133-70)</strong>."</p>
+<p>Dyer's body hung suspended, his gold wedding band glinting uselessly in the harsh fluorescent light. His shirt was ripped, exposing a final, cruel act of humiliation. Ice-T stared at the evidence.</p>
 
-<p>This was the first death in the newly announced <strong>DegenerateGames</strong>.</p>
+<p>"Epstein Files," the detective read aloud, glancing at the suspicious folder tucked under Dyer's foot—a cynical trophy left by <strong>Steven Won’s</strong> shadow.</p>
 
-<p>"Witnesses?" Ice-T barked.</p>
+<p>Then he focused on the victim's chest, where the message was scrawled:</p>
 
-<p><strong>Omarion Hampton</strong> and <strong>Ashton Jeanty</strong> sat on a bench, staring blankly, not contributing a single damn thing to the investigation—just like they didn't contribute to Palmer's campaign.</p>
+<p><strong style="color: #cf6679; font-size: 1.5em; font-style: italic;">"Let me see dem tiddies"</strong></p>
 
-<p>Suddenly, <strong>Rhamondre Stevenson</strong> clattered into the room. He spotted the bloody waiver-wire knife, fumbled the pickup, and kicked it directly into his own foot. He collapsed, crying for mercy.</p>
+<p>"He won his last game, and he *still* gets marked by a juvenile insult tied to <strong>Tanner Maycumber's ('Show Me Them TDs')</strong> team name," Ice-T growled, his jaw tight. "The brutality in this league is escalating. They leave nothing sacred."</p>
 
-<p>"Damn!" Ice-T muttered, turning to the prime suspect. <strong>Bo Nix</strong> stood in the corner, looking guilty as hell, a crusty, white, sugary residue caked on his lips like he’d just stress-eaten a glazed donut.</p>
-
-<p>Palmer’s fantasy ghost suddenly materialized. He pointed a shaky finger at his QB and used his last breath to utter the truth:</p>
-
-<p>"Blo... Dix..."</p>
-
-<p>Nix panicked. "It's not my fault!" he yelled. "It's the league's! They set me up!"</p>
-
-<p>Ice-T narrowed his eyes. "What league?"</p>
-
-<p>"Uh... nevermind," Nix mumbled, looking at the floor. "I can't say anything... I need to get picked up on waivers..."</p>
-
-<p>Ice-T stepped right up to him. "Your <strong>7-point ass</strong> doesn't need to worry about that."</p>
-
-<p>"Damn."</p>
+<p>Dyer's elimination was sealed. The **DegenerateGames** claimed another soul—one who died for a victory that didn't matter.</p>
 
 <hr>
 
 <h3>📢 The Commissioner's Decree 📢</h3>
 
-<p>Back at the BoKnowsDegenerates headquarters, the remaining managers stared at the league standings. Palmer's name was gray. A blood-red stamp flashed over it: <strong style="color: #cf6679;">ELIMINATED</strong>.</p>
+<p>Back at the BoKnowsDegenerates corporate headquarters, the mood was devotional, not mournful. Commissioner <strong>Sam McIntosh (sbmcintosh98)</strong> stood, his face unreadable, ready to deliver the final word on the living.</p>
 
-<p>The room was thick with tension.</p>
+<p>The lights dimmed. A chilling, wet, rattling **GOBBLE** echoed from the ventilation shafts. It vibrated in the floorboards. This wasn't a seasonal sound; this was <strong>The Gobbler</strong>, the embodiment of playoff anxiety, come to feast on hope before Thanksgiving.</p>
 
-<p>Commissioner <strong>Sam McIntosh (sbmcintosh98)</strong> stood on a chair.</p>
+<p>"Hear ye, degenerates! <strong>Alex Harris (8-2)</strong> and **Robby Henry (8-2)** have breached the wall. You are <strong>CLINCHED</strong>! The Gobbler will spare you... for now."</p>
 
-<p>"Alright, listen up, you degenerates!" he yelled. "The Games have begun. Palmer is the first to fall. This is life or death."</p>
+<p>"The tiebreaker is <strong>head-to-head wins</strong>, and after that, it's <strong>total points for</strong>. Two weeks left to survive!."</p>
 
-<p>"As your commissioner, it's my duty to announce the current state of survival. Playoffs start in two weeks. Only the <strong>TOP EIGHT</strong> get in. The tiebreaker is <strong>head-to-head wins</strong>, and after that, it's <strong>total points for</strong>. If you're on the bubble, you better start praying."</p>
-
-<p>He pointed to the official leaderboard:</p>
-
+<h4>Current Playoff Picture:</h4>
 <ul>
-    <li><strong>robbyhenry</strong> (Robby Henry): 7-2</li>
-    <li><strong>FreeLuigi</strong> (Alex Harris): 7-2</li>
-    <li><strong>Team oliverguice</strong> (Oliver Guice): 6-3</li>
-    <li><strong>Show Me Them TDs</strong> (Tanner Maycumber): 5-4</li>
-    <li><strong>Top of the Epstein List</strong> (Steven Won): 5-4</li>
-    <li><strong>Team mbrett2012</strong> (Brett Newton): 5-4</li>
-    <li><strong>A Sad Auburn Fan</strong> (Jake Futrell): 4-5</li>
-    <li><strong>Samwell Goodell</strong> (Sam McIntosh): 4-5</li>
-</ul>
-
-<p><strong style="color: #cf6679;">"That's the cutoff!"</strong> Sam yelled, pointing to his own name. "Everyone below this line is in the death zone! You are being hunted!"</p>
-
-<ul>
-    <li><strong>BUTT STUFF</strong> (Cole Fink): 4-5</li>
-    <li><strong>Horrendous Henry's</strong> (Alex Stephens): 4-5</li>
-    <li><strong>Dyer McWhorter</strong>: 2-7</li>
-    <li><strong>Palmer Reed</strong>: 1-8 <strong style="color: #cf6679;">(ELIMINATED)</strong></li>
+    <li><strong>The Clinched (8-2):</strong> Robby Henry, Alex Harris.</li>
+    <li><strong>The Safe Zone (6-4):</strong> Steven Won, Tanner Maycumber, Oliver Guice.</li>
+    <li><strong style="color: #cf6679;">The Elimination Bubble:</strong> <strong>Brett Newton, Sam McIntosh, Jake Futrell, Cole Fink, and Alex Stephens</strong>. Five of you are fighting for the last three tickets.</li>
 </ul>
 
 <hr>
 
-<h3>⚔️ The Fight for Survival ⚔️</h3>
+<h3>⚔️ The Final Ritual ⚔️</h3>
 
-<p>At the top, L.A. film exec <strong>Robby</strong> and <strong>Alex Harris</strong> shared an evil grin, the first two survivors to reach the safe zone.</p>
+<p>The three 6-4 managers—**Won, Tanner, and Oliver**—stepped away from the light, their eyes cold. Then, the five bubble managers—**Brett, Sam, Jake, Cole, and Alex Stephens**—were forcefully herded into a tight circle in the center of the headquarters.</p>
 
-<p><strong>Oliver Guice</strong> (6-3) and <strong>Brett Newton</strong> (5-4, on a 3-win streak) were creeping up unseen. Brett's team is engineered for clean points; Oliver's is just fueled by pure, unfiltered Bama arrogance.</p>
+<p>The safe managers began to circle them like wolves, their voices rising in a slow, hypnotic rhythm. **Robby** and **Alex Harris** led the chilling devotion:</p>
 
-<p><strong>Steven Won</strong> (5-4) was already whining, waving around a homemade chart scribbled in crayon that supposedly showed the 'direct correlation between cousins and league collusion.' Nobody took him seriously, mostly because he had <strong>"I CLAP CHEEKS"</strong> tattooed on his forehead.</p>
+<p style="text-align: center; font-size: 1.5em; margin: 20px 0; color: #03dac6;"><strong>THREE WILL FEAST, TWO WILL STARVE!</strong></p>
 
-<p>Meanwhile, car salesman <strong>Tanner Maycumber</strong> (5-4) was trying to package his 5-4 record as a "certified pre-owned playoff spot."</p>
+<p style="text-align: center; font-size: 1.5em; margin: 20px 0; color: #03dac6;"><strong>THREE WILL FEAST, TWO WILL STARVE!</strong></p>
 
-<p>But the real panic was on the bubble.</p>
+<p>Inside the circle, fear was physical. <strong>Brett Newton (mbrett2012)</strong>, the clean water engineer, was a trembling mess of statistical anxiety. He dug his fingers into <strong>Jake Futrell’s</strong> arm.</p>
 
-<p>A four-way knife fight has broken out for the last two playoff spots. <strong>Jake Futrell</strong>, Commish <strong>Sam</strong>, cousin <strong>Cole Fink</strong>, and Sam's brother-in-law <strong>Alex Stephens</strong> are all tied at 4-5. The smell of blood and desperation is overwhelming.</p>
+<p>"It hunts the desperate, Jake! It targeted <strong>Cole Fink</strong> right before the playoffs last year—killed his momentum! **The Gobbler** consumes hope! It will eat our points and leave us with nothing but gravy stains!"</p>
 
-<p>And then... there was one.</p>
+<p>Cole, already reliving the anguish of last year's collapse, couldn't move. The chant grew LOUDER, and The Gobbler’s cries, fueled by the rising panic, shook the very foundation of the building. The sound was deafening, terrifying, and final.</p>
 
-<p>All alone at 2-7, <strong>Dyer McWhorter</strong> trembled in the corner. With Palmer gone, Dyer is the new target. He's on his own island of despair, realizing his looming fate. He's not sure what's more terrifying: his upcoming floral arrangements or being the next one to get a visit from Ice-T.</p>
-
-<p><strong>It's nut crunch time. Two weeks left.</strong></p>
+<p><strong>It's maximum nut crunch time. One weeks left to join the feast.</strong></p>
 
 `;
 
