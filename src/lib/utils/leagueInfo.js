@@ -7,10 +7,14 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <video width="100%" controls autoplay muted loop playsinline>
-  <source src="https://youtu.be/nswEqNh1ILE?si=MjMYX0eVm61Di14X" type="video/mp4">
-  Your browser does not support the video tag.
-  </video>
+  <div style="margin: 20px 0; padding: 10px; border: 1px solid #cf6679; background-color: #2c0000; border-radius: 5px;">
+    <p style="text-align: center; font-weight: bold; color: #ffffff;">The Gobbler's Origin Story:</p>
+    <p style="text-align: center; font-size: 0.9em; margin-top: 5px;">To understand the terror, watch the trailer for the movie that inspired The Gobbler.</p>
+    <p style="text-align: center; margin-top: 10px;">
+        <a href="https://youtu.be/nswEqNh1ILE?si=MjMYX0eVm61Di14X" target="_blank" style="color: #bb86fc;">ThanksKilling 3 Trailer (2012) - Killer Turkey Horror Movie</a>
+    </p>
+</div>
+
   <h3>WEEK 10 RECAP: The Gobbler Returns</h3>
    
   <p>In the fantasy football league known as BoKnowsDegenerates, the managers are separated by two distinct groups: <strong>The High Rollers</strong> playing for the championship, and <strong>The Folded</strong> who are just trying to survive. This week, the game got real. These are their stories.</p>
