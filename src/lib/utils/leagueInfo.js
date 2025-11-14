@@ -8,7 +8,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <video width="100%" controls autoplay muted loop playsinline>
-  <source src="https://img.mlbstatic.com/mlb-images/image/private/t_16x9/mlb/m3jhdhqhlb2avjmupmdh.mp4" type="video/mp4">
+  <source src="https://youtu.be/nswEqNh1ILE?si=MjMYX0eVm61Di14X" type="video/mp4">
   Your browser does not support the video tag.
   </video>
   <h3>WEEK 10 RECAP: The Gobbler Returns</h3>
