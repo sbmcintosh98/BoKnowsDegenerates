@@ -91,9 +91,13 @@ export const homepageText = `
 
 <p>***</p>
 
+<p>In the fantasy football league known as BoKnowsDegenerates, the managers are separated by two distinct groups: <strong>The High Rollers</strong> playing for the championship, and <strong>The Folded</strong> who are just trying to survive. This week, the game got real. These are their stories.</p>
+
+<p style="text-align: center; font-weight: bold; margin: 20px 0;">DUN DUN</p>
+
 <h2>👑 Commissioner's Office: The Playoff Verdict 👑</h2>
 
-<p>The scene cut sharply from the chaotic parade to the sterile, tense atmosphere of the Commissioner’s office. **Sam McIntosh (sbmcintosh98)**, composed but with sweat beading on his brow, stood before a whiteboard. He knew his face—and his championship trophy—was now evidence at a crime scene, but the playoffs had to be announced.</p>
+<p>The scene cut sharply to the sterile, tense atmosphere of the Commissioner’s office. **Sam McIntosh (sbmcintosh98)**, composed and full of self-importance, stood before a whiteboard. Unaware that the fantasy police had identified him as their prime suspect, he was focused only on consolidating his control over the league.</p>
 
 <p>The seven remaining managers watched him, the smell of fear and victory mixing in the air.</p>
 
@@ -103,7 +107,7 @@ export const homepageText = `
 
 <h3>🏆 QUARTERFINAL MATCHUPS 🏆</h3>
 
-<p>Sam pointed to the board, delivering the matchups with the cold precision of a man who knows he's about to be investigated for fantasy crimes:</p>
+<p>Sam pointed to the board, delivering the matchups with the cold precision of a man who believes he is untouchable:</p>
 
 <ol>
     <li>
@@ -116,7 +120,7 @@ export const homepageText = `
     </li>
     <li>
         <h4>#3 Seed Tanner Maycumber (6-4) vs. #6 Seed Samwell Goodell (5-5)</h4>
-        <p><strong>Sam's Verdict:</strong> "Yes, I make the playoffs. Tanner, the **sleazy car salesman**, versus the Commissioner. You spent all week trying to trade away evidence, Tanner. I spent all week dealing with a multi-state felony investigation. This is the only place I can assert control. Expect a commissioner's decree on Sunday."</p>
+        <p><strong>Sam's Verdict:</strong> "Yes, I make the playoffs. Tanner, the **sleazy car salesman**, versus the Commissioner. You spent all week trying to trade away evidence, Tanner. I spent all week dealing with the pathetic cries of the eliminated. This is the only place I can assert control. Expect a commissioner's decree on Sunday."</p>
     </li>
     <li>
         <h4>#4 Seed Steven Won (6-4) vs. #5 Seed Oliver Guice (6-4)</h4>
@@ -124,9 +128,11 @@ export const homepageText = `
     </li>
 </ol>
 
-<p>Sam slammed his hand on the table, the sound echoing through the silenced office.</p>
+<p>Sam slammed his hand on the table, a satisfied look spreading across his face.</p>
 
-<p><strong>"The playoffs start now. And remember: Ice-T and Pickle Rick are watching every single roster move. Do not give them a reason to believe in collusion. I'll see you all in the finals."</strong></p>
+<p><strong>"The playoffs start now. Good luck, gentlemen. I'll see you all in the finals."</strong></p>
+
+<hr>
 
 `;
 
