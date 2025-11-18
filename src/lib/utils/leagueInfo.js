@@ -11,72 +11,122 @@ export const homepageText = `
     <p style="text-align: center; font-weight: bold; color: #ffffff;">The Gobbler's Origin Story:</p>
     <p style="text-align: center; font-size: 0.9em; margin-top: 5px;">To understand the terror, watch the trailer for the movie that inspired The Gobbler.</p>
     <p style="text-align: center; margin-top: 10px;">
-        <a href="https://youtu.be/nswEqNh1ILE?si=MjMYX0eVm61Di14X" target="_blank" style="color: #bb86fc;">ThanksKilling 3 Trailer (2012) - Killer Turkey Horror Movie</a>
+        <img 
+    src="http://googleusercontent.com/image_generation_content/0" 
+    alt="Detective Ice-T and Pickle Rick investigating fantasy football corpses (Palmer, Dyer, Cole, Jake) and an incriminating locket at the Macy's Thanksgiving Day Parade beneath a Spongebob balloon and the Gobbler." 
+    style="width: 100%; max-width: 700px; height: auto; display: block; margin: 20px auto; border: 3px solid #bb86fc; border-radius: 5px;"
+>
     </p>
 </div>
 
-  <h3>WEEK 10 RECAP: The Gobbler Returns</h3>
-   
-  <p>In the fantasy football league known as BoKnowsDegenerates, the managers are separated by two distinct groups: <strong>The High Rollers</strong> playing for the championship, and <strong>The Folded</strong> who are just trying to survive. This week, the game got real. These are their stories.</p>
+  <h3>🦃 The Gobbler's Feast: Week 11 Massacre 🦃</h3>
 
-<p style="text-align: center; font-weight: bold; margin: 20px 0;">DUN DUN</p>
+<p>The air in the BoKnows Headquarters was no longer thick with humidity; it was pressurized with dread. The five managers on the bubble—**Brett, Sam, Jake, Cole, and Alex Stephens**—were locked in the war room, watching the final scoreboards flicker. Outside the reinforced door, the safe managers continued their chilling, relentless chant:</p>
 
-<h3>💀 Special Victims Unit: The DegenerateGames - Episode 2 💀</h3>
+<p style="text-align: center; font-size: 1.6em; margin: 20px 0; color: #03dac6;"><strong>THREE WILL FEAST, TWO WILL STARVE!</strong></p>
 
-<p>The air in the cold office hung thick with the metallic scent of despair. Detective Ice-T sighed, rubbing the bridge of his nose. "Last week, we called it the Week 9 execution of <strong>Palmer Reed (1-8)</strong>. It was quick, clean—a warning shot. This... this is ritual."</p>
+<p>The Gobbler was inside the room now. It wasn't a cartoon; it was a monstrous, shadowy presence of feathered anxiety, its wet, rattling **GOBBLE** a physical sound that made teeth ache.</p>
 
-<p>The M.E. nodded, his voice low. "The victim is <strong>Dyer McWhorter</strong>. Record 3-7. He fought, Detective. He pulled off a 104-91 <strong>win over Cole Fink</strong>. He won the battle, but the math was merciless. The system claimed him anyway."</p>
+<p>Commissioner Sam McIntosh stepped back, securing his own playoff berth with a crucial Week 11 win (6-5). The final three spots now came down to the simultaneous collapse of two dreams.</p>
 
-<p>Dyer's body hung suspended, his gold wedding band glinting uselessly in the harsh fluorescent light. His shirt was ripped, exposing a final, cruel act of humiliation. Ice-T stared at the evidence.</p>
+<h4>THE GOBBLER STRIKES: JAKE'S CHOKE</h4>
 
-<p>"Epstein Files," the detective read aloud, glancing at the suspicious folder tucked under Dyer's foot—a cynical trophy left by <strong>Steven Won’s</strong> shadow.</p>
+<p>The camera focused on **Jake Futrell (A Sad Auburn Fan)**. He needed a miracle. His last player was on the field, down by four points. Jake watched, frozen, as his final score settled: a loss. Five straight defeats. His final record: **4-7**.</p>
 
-<p>Then he focused on the victim's chest, where the message was scrawled:</p>
+<p>The Gobbler let out a triumphant shriek and swooped down to claim its first victim. But as the fowl tried to consume Jake's spirit, it suddenly recoiled, thrashing violently. The Gobbler was gagging, wings flapping wildly, unable to swallow the essence of failure.</p>
 
-<p><strong style="color: #cf6679; font-size: 1.5em; font-style: italic;">"Let me see dem tiddies"</strong></p>
+<p>**Brett Newton** pointed, terrified, yet mesmerized. "It can't eat him! He's too pathetic! He choked so hard missing the playoffs, he's making the actual killer choke!"</p>
 
-<p>"He won his last game, and he *still* gets marked by a juvenile insult tied to <strong>Tanner Maycumber's ('Show Me Them TDs')</strong> team name," Ice-T growled, his jaw tight. "The brutality in this league is escalating. They leave nothing sacred."</p>
+<p>The Gobbler spat Jake out in a flurry of feathers, his elimination confirmed:</p>
 
-<p>Dyer's elimination was sealed. The **DegenerateGames** claimed another soul—one who died for a victory that didn't matter.</p>
+<p style="text-align: center; font-size: 1.3em; margin: 15px 0;"><strong style="color: #cf6679;">JAKE FUTRELL: STARVED (4-7)</strong></p>
+
+<h4>THE GOBBLER'S TWIST: COLE'S LAST BREATH</h4>
+
+<p>The Gobbler, still hacking, turned its fury on the remaining two bubble managers. Cole Fink, fighting for his life, managed to pull off a desperate, miraculous win. **Cole, Brett, and Alex Stephens** all finished with an identical, desperate record of **5-6**.</p>
+
+<p>The Gobbler then pointed its massive, ugly beak at the trio, and the Head-to-Head records appeared in the air:</p>
+
+<p>The Gobbler's voice—a rasping, dry gobble—filled the room: "<strong>COLE FINK... YOU WON THE BATTLE, BUT YOU LOST THE WAR. YOUR RECORD AGAINST THESE TWO... IS WEAK.</strong>"</p>
+
+<p>Cole sank to his knees, his winning score a monument to his failure. He was the final man out, eliminated by the tyranny of the tiebreaker.</p>
+
+<p style="text-align: center; font-size: 1.3em; margin: 15px 0;"><strong style="color: #cf6679;">COLE FINK: STARVED (5-6)</strong></p>
+
+<h4>THE EIGHTH SEED AND THE GRAND EXIT</h4>
+
+<p>The Gobbler let out a disgusted squawk, pointing to Brett.</p>
+
+<p>"**BRETT NEWTON (5-6)! YOU FEAST!** You lost to Alex today, but your strength against the other eliminated fools secures your spot. You are the **FINAL, WEAKEST, EIGHTH SEED** for the second year running. You survive the Gobbler, but you live in shame!"</p>
+
+<p>Brett and **Alex Stephens (5-6)**, the other survivor, were left standing, horrified. The Gobbler, having claimed its required victims, scooped up the four eliminated bodies—**Dyer, Palmer, Cole, and the still-gasping Jake**—in its massive claws.</p>
+
+<p>With a deafening, final **GOBBLE**, the murderous turkey launched itself through the roof of the BoKnows Headquarters, soaring high above the city.</p>
 
 <hr>
 
-<h3>📢 The Commissioner's Decree 📢</h3>
+<h2>🚨 SVU: The Parade Investigation 🚨</h2>
 
-<p>Back at the BoKnowsDegenerates corporate headquarters, the mood was devotional, not mournful. Commissioner <strong>Sam McIntosh (sbmcintosh98)</strong> stood, his face unreadable, ready to deliver the final word on the living.</p>
+<p>The final scene cut to a bright, festive New York City morning. As the Rockettes performed their high kicks live at the Macy's Thanksgiving Day Parade, the Gobbler flew over Herald Square, completing its gruesome delivery. It let out one last hacking cough and spit the four bodies—**Palmer, Dyer, Jake, and Cole**—out of its gullet, depositing the pile of fantasy shame right in front of the stunned dancers.</p>
 
-<p>The lights dimmed. A chilling, wet, rattling **GOBBLE** echoed from the ventilation shafts. It vibrated in the floorboards. This wasn't a seasonal sound; this was <strong>The Gobbler</strong>, the embodiment of playoff anxiety, come to feast on hope before Thanksgiving.</p>
+<p>Detective Ice-T pushed through the chaos, spotting the pile of fantasy corpses at the feet of a towering balloon. He pulled out a radio.</p>
 
-<p>"Hear ye, degenerates! <strong>Alex Harris (8-2)</strong> and **Robby Henry (8-2)** have breached the wall. You are <strong>CLINCHED</strong>! The Gobbler will spare you... for now."</p>
+<p>Suddenly, a flash of green streaked overhead. <strong>Pickle Rick</strong>, Ice-T's newest, most unstable forensic partner, slid down the side of a massive SpongeBob SquarePants balloon banner, landing with a splash of brine.</p>
 
-<p>"The tiebreaker is <strong>head-to-head wins</strong>, and after that, it's <strong>total points for</strong>. Two weeks left to survive!."</p>
+<p>"Wubba Lubba Dub Dub, Detective! This is gruesome! Fresh from the Gobbler’s gizzard!" Pickle Rick flipped his tiny magnifying glass over the bodies.</p>
 
-<h4>Current Playoff Picture:</h4>
-<ul>
-    <li><strong>The Clinched (8-2):</strong> Robby Henry, Alex Harris.</li>
-    <li><strong>The Safe Zone (6-4):</strong> Steven Won, Tanner Maycumber, Oliver Guice.</li>
-    <li><strong style="color: #cf6679;">The Elimination Bubble:</strong> <strong>Brett Newton, Sam McIntosh, Jake Futrell, Cole Fink, and Alex Stephens</strong>. Five of you are fighting for the last three tickets.</li>
-</ul>
+<p>Ice-T pointed to Dyer. "The victim won his last game, Pickle Rick, but got marked with a pathetic team slogan. The one next to him whispered 'Blo Dix' before his soul expired."</p>
+
+<p>Pickle Rick zipped over to **Jake Futrell** (The Choker), who was strangely intact. "Ah, the Choker! High testosterone, low clutch-factor! Wait, what’s this?"</p>
+
+<p>Pickle Rick skillfully plucked a small, tarnished silver locket from Jake's hand, where it had been tightly clutched. He used a laser beam from his wrist to pop it open.</p>
+
+<p>Inside, tucked away, was a faded photograph of Commissioner **Samwell Goodell (sbmcintosh98)**, young and smiling, clutching a shiny fantasy championship trophy.</p>
+
+<p>Ice-T stared at the image. The chilling realization hit him. "The Commissioner... he’s the one pulling the strings. This ain't just bad luck, Pickle Rick. This is internal. It's always internal."</p>
+
+<p>Pickle Rick cackled wildly. "That's right, Detective! This whole 'DegenerateGames' is a rigged meta-narrative orchestrated by the very man who enforces the rules! We've got our suspect, Ice! Now let's go get some schematics on his goddamn air conditioning unit!"</p>
+
+<p>Ice-T looked at the chaos of the parade, then back at the photo of the smiling Commissioner. "Damn."</p>
+
+<p>***</p>
+
+<h2>👑 Commissioner's Office: The Playoff Verdict 👑</h2>
+
+<p>The scene cut sharply from the chaotic parade to the sterile, tense atmosphere of the Commissioner’s office. **Sam McIntosh (sbmcintosh98)**, composed but with sweat beading on his brow, stood before a whiteboard. He knew his face—and his championship trophy—was now evidence at a crime scene, but the playoffs had to be announced.</p>
+
+<p>The seven remaining managers watched him, the smell of fear and victory mixing in the air.</p>
+
+<p>"Gentlemen," Sam said, his voice clipped, "The Gobbler has done its work. The eliminations are final. Now, the **DegenerateGames** begin in earnest. Here are your quarterfinals. No mercy. No waivers. No complaints."</p>
 
 <hr>
 
-<h3>⚔️ The Final Ritual ⚔️</h3>
+<h3>🏆 QUARTERFINAL MATCHUPS 🏆</h3>
 
-<p>The three 6-4 managers—**Won, Tanner, and Oliver**—stepped away from the light, their eyes cold. Then, the five bubble managers—**Brett, Sam, Jake, Cole, and Alex Stephens**—were forcefully herded into a tight circle in the center of the headquarters.</p>
+<p>Sam pointed to the board, delivering the matchups with the cold precision of a man who knows he's about to be investigated for fantasy crimes:</p>
 
-<p>The safe managers began to circle them like wolves, their voices rising in a slow, hypnotic rhythm. **Robby** and **Alex Harris** led the chilling devotion:</p>
+<ol>
+    <li>
+        <h4>#1 Seed Alex Harris (8-2) vs. #8 Seed Brett Newton (5-6)</h4>
+        <p><strong>Sam's Verdict:</strong> "The Mismatch of Mismatches. Alex, the 'High Roller,' takes on <strong>Brett, the human calculator</strong> who snuck in the back door as the 8th seed two years straight. Brett, you survived The Gobbler, but you're stepping into the mouth of a lion. Good luck engineering a defense for this one."</p>
+    </li>
+    <li>
+        <h4>#2 Seed Robby Henry (8-2) vs. #7 Seed Horrendous Henry's (5-6)</h4>
+        <p><strong>Sam's Verdict:</strong> "The Henry Family Feud. Cousin versus Brother-in-Law. Robby, the <strong>Hollywood elite</strong>, gets to beat up on the family. Alex Stephens, you clinched your spot by destroying Cole's dreams. See if you can survive the guy who actually stabbed Palmer."</p>
+    </li>
+    <li>
+        <h4>#3 Seed Tanner Maycumber (6-4) vs. #6 Seed Samwell Goodell (5-5)</h4>
+        <p><strong>Sam's Verdict:</strong> "Yes, I make the playoffs. Tanner, the **sleazy car salesman**, versus the Commissioner. You spent all week trying to trade away evidence, Tanner. I spent all week dealing with a multi-state felony investigation. This is the only place I can assert control. Expect a commissioner's decree on Sunday."</p>
+    </li>
+    <li>
+        <h4>#4 Seed Steven Won (6-4) vs. #5 Seed Oliver Guice (6-4)</h4>
+        <p><strong>Sam's Verdict:</strong> "The Rivalry of Paranoia and Pride. Won, the **conspiracy theorist**, versus Oliver, the **NOLA-bred Bama fanatic**. The highest-scoring quarterfinal battle. You two have argued all year; now settle it. I expect an SEC-level bloodbath. And Won, I swear if you bring up the Epstein Files one more time, I'm dropping your kicker."</p>
+    </li>
+</ol>
 
-<p style="text-align: center; font-size: 1.5em; margin: 20px 0; color: #03dac6;"><strong>THREE WILL FEAST, TWO WILL STARVE!</strong></p>
+<p>Sam slammed his hand on the table, the sound echoing through the silenced office.</p>
 
-<p style="text-align: center; font-size: 1.5em; margin: 20px 0; color: #03dac6;"><strong>THREE WILL FEAST, TWO WILL STARVE!</strong></p>
-
-<p>Inside the circle, fear was physical. <strong>Brett Newton (mbrett2012)</strong>, the clean water engineer, was a trembling mess of statistical anxiety. He dug his fingers into <strong>Jake Futrell’s</strong> arm.</p>
-
-<p>"It hunts the desperate, Jake! It targeted <strong>Cole Fink</strong> right before the playoffs last year—killed his momentum! **The Gobbler** consumes hope! It will eat our points and leave us with nothing but gravy stains!"</p>
-
-<p>Cole, already reliving the anguish of last year's collapse, couldn't move. The chant grew LOUDER, and The Gobbler’s cries, fueled by the rising panic, shook the very foundation of the building. The sound was deafening, terrifying, and final.</p>
-
-<p><strong>It's maximum nut crunch time. One weeks left to join the feast.</strong></p>
+<p><strong>"The playoffs start now. And remember: Ice-T and Pickle Rick are watching every single roster move. Do not give them a reason to believe in collusion. I'll see you all in the finals."</strong></p>
 
 `;
 
