@@ -8,130 +8,122 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <div style="margin: 20px 0; padding: 10px; border: 1px solid #cf6679; background-color: #2c0000; border-radius: 5px;">
-    <p style="text-align: center; font-weight: bold; color: #ffffff;">The Gobbler's Origin Story:</p>
-    <p style="text-align: center; font-size: 0.9em; margin-top: 5px;">To understand the terror, watch the trailer for the movie that inspired The Gobbler.</p>
-    <p style="text-align: center; margin-top: 10px;">
-        <img 
-    src="http://googleusercontent.com/image_generation_content/0" 
-    alt="Detective Ice-T and Pickle Rick investigating fantasy football corpses (Palmer, Dyer, Cole, Jake) and an incriminating locket at the Macy's Thanksgiving Day Parade beneath a Spongebob balloon and the Gobbler." 
-    style="width: 100%; max-width: 700px; height: auto; display: block; margin: 20px auto; border: 3px solid #bb86fc; border-radius: 5px;"
->
-    </p>
-</div>
-
-  <h3>🦃 The Gobbler's Feast: Week 11 Massacre 🦃</h3>
-
-<p>The air in the BoKnows Headquarters was no longer thick with humidity; it was pressurized with dread. The five managers on the bubble—**Brett, Sam, Jake, Cole, and Alex Stephens**—were locked in the war room, watching the final scoreboards flicker. Outside the reinforced door, the safe managers continued their chilling, relentless chant:</p>
-
-<p style="text-align: center; font-size: 1.6em; margin: 20px 0; color: #03dac6;"><strong>THREE WILL FEAST, TWO WILL STARVE!</strong></p>
-
-<p>The Gobbler was inside the room now. It wasn't a cartoon; it was a monstrous, shadowy presence of feathered anxiety, its wet, rattling **GOBBLE** a physical sound that made teeth ache.</p>
-
-<p>Commissioner Sam McIntosh stepped back, securing his own playoff berth with a crucial Week 11 win (6-5). The final three spots now came down to the simultaneous collapse of two dreams.</p>
-
-<h4>THE GOBBLER STRIKES: JAKE'S CHOKE</h4>
-
-<p>The camera focused on **Jake Futrell (A Sad Auburn Fan)**. He needed a miracle. His last player was on the field, down by four points. Jake watched, frozen, as his final score settled: a loss. Five straight defeats. His final record: **4-7**.</p>
-
-<p>The Gobbler let out a triumphant shriek and swooped down to claim its first victim. But as the fowl tried to consume Jake's spirit, it suddenly recoiled, thrashing violently. The Gobbler was gagging, wings flapping wildly, unable to swallow the essence of failure.</p>
-
-<p>**Brett Newton** pointed, terrified, yet mesmerized. "It can't eat him! He's too pathetic! He choked so hard missing the playoffs, he's making the actual killer choke!"</p>
-
-<p>The Gobbler spat Jake out in a flurry of feathers, his elimination confirmed:</p>
-
-<p style="text-align: center; font-size: 1.3em; margin: 15px 0;"><strong style="color: #cf6679;">JAKE FUTRELL: STARVED (4-7)</strong></p>
-
-<h4>THE GOBBLER'S TWIST: COLE'S LAST BREATH</h4>
-
-<p>The Gobbler, still hacking, turned its fury on the remaining two bubble managers. Cole Fink, fighting for his life, managed to pull off a desperate, miraculous win. **Cole, Brett, and Alex Stephens** all finished with an identical, desperate record of **5-6**.</p>
-
-<p>The Gobbler then pointed its massive, ugly beak at the trio, and the Head-to-Head records appeared in the air:</p>
-
-<p>The Gobbler's voice—a rasping, dry gobble—filled the room: "<strong>COLE FINK... YOU WON THE BATTLE, BUT YOU LOST THE WAR. YOUR RECORD AGAINST THESE TWO... IS WEAK.</strong>"</p>
-
-<p>Cole sank to his knees, his winning score a monument to his failure. He was the final man out, eliminated by the tyranny of the tiebreaker.</p>
-
-<p style="text-align: center; font-size: 1.3em; margin: 15px 0;"><strong style="color: #cf6679;">COLE FINK: STARVED (5-6)</strong></p>
-
-<h4>THE EIGHTH SEED AND THE GRAND EXIT</h4>
-
-<p>The Gobbler let out a disgusted squawk, pointing to Brett.</p>
-
-<p>"**BRETT NEWTON (5-6)! YOU FEAST!** You lost to Alex today, but your strength against the other eliminated fools secures your spot. You are the **FINAL, WEAKEST, EIGHTH SEED** for the second year running. You survive the Gobbler, but you live in shame!"</p>
-
-<p>Brett and **Alex Stephens (5-6)**, the other survivor, were left standing, horrified. The Gobbler, having claimed its required victims, scooped up the four eliminated bodies—**Dyer, Palmer, Cole, and the still-gasping Jake**—in its massive claws.</p>
-
-<p>With a deafening, final **GOBBLE**, the murderous turkey launched itself through the roof of the BoKnows Headquarters, soaring high above the city.</p>
-
-<hr>
-
-<h2>🚨 SVU: The Parade Investigation 🚨</h2>
-
-<p>The final scene cut to a bright, festive New York City morning. As the Rockettes performed their high kicks live at the Macy's Thanksgiving Day Parade, the Gobbler flew over Herald Square, completing its gruesome delivery. It let out one last hacking cough and spit the four bodies—**Palmer, Dyer, Jake, and Cole**—out of its gullet, depositing the pile of fantasy shame right in front of the stunned dancers.</p>
-
-<p>Detective Ice-T pushed through the chaos, spotting the pile of fantasy corpses at the feet of a towering balloon. He pulled out a radio.</p>
-
-<p>Suddenly, a flash of green streaked overhead. <strong>Pickle Rick</strong>, Ice-T's newest, most unstable forensic partner, slid down the side of a massive SpongeBob SquarePants balloon banner, landing with a splash of brine.</p>
-
-<p>"Wubba Lubba Dub Dub, Detective! This is gruesome! Fresh from the Gobbler’s gizzard!" Pickle Rick flipped his tiny magnifying glass over the bodies.</p>
-
-<p>Ice-T pointed to Dyer. "The victim won his last game, Pickle Rick, but got marked with a pathetic team slogan. The one next to him whispered 'Blo Dix' before his soul expired."</p>
-
-<p>Pickle Rick zipped over to **Jake Futrell** (The Choker), who was strangely intact. "Ah, the Choker! High testosterone, low clutch-factor! Wait, what’s this?"</p>
-
-<p>Pickle Rick skillfully plucked a small, tarnished silver locket from Jake's hand, where it had been tightly clutched. He used a laser beam from his wrist to pop it open.</p>
-
-<p>Inside, tucked away, was a faded photograph of Commissioner **Samwell Goodell (sbmcintosh98)**, young and smiling, clutching a shiny fantasy championship trophy.</p>
-
-<p>Ice-T stared at the image. The chilling realization hit him. "The Commissioner... he’s the one pulling the strings. This ain't just bad luck, Pickle Rick. This is internal. It's always internal."</p>
-
-<p>Pickle Rick cackled wildly. "That's right, Detective! This whole 'DegenerateGames' is a rigged meta-narrative orchestrated by the very man who enforces the rules! We've got our suspect, Ice! Now let's go get some schematics on his goddamn air conditioning unit!"</p>
-
-<p>Ice-T looked at the chaos of the parade, then back at the photo of the smiling Commissioner. "Damn."</p>
-
-<p>***</p>
-
-<p>In the fantasy football league known as BoKnowsDegenerates, the managers are separated by two distinct groups: <strong>The High Rollers</strong> playing for the championship, and <strong>The Folded</strong> who are just trying to survive. This week, the game got real. These are their stories.</p>
+    <p>In the fantasy football league known as BoKnowsDegenerates, the managers are separated by two distinct groups: <strong>The High Rollers</strong> playing for the championship, and <strong>The Folded</strong> who are just trying to survive. This week, the game got real. These are their stories.</p>
 
 <p style="text-align: center; font-weight: bold; margin: 20px 0;">DUN DUN</p>
 
-<h2>👑 Commissioner's Office: The Playoff Verdict 👑</h2>
+<h3>💀 SVU: The Grieving Mother 💀</h3>
 
-<p>The scene cut sharply to the sterile, tense atmosphere of the Commissioner’s office. **Sam McIntosh (sbmcintosh98)**, composed and full of self-importance, stood before a whiteboard. Unaware that the fantasy police had identified him as their prime suspect, he was focused only on consolidating his control over the league.</p>
+<p>The squad car rolled up to a modest suburban home. Detective Ice-T adjusted his collar while <strong>Pickle Rick</strong> rolled around on the dashboard, currently stuck in a jar of pickled okra.</p>
 
-<p>The seven remaining managers watched him, the smell of fear and victory mixing in the air.</p>
+<p>"We're here to see Mrs. Futrell," Ice-T grunted. "Standard procedure. Jake 'The Choker' Futrell was eliminated last week by The Gobbler. We gotta see if he left any clues behind."</p>
 
-<p>"Gentlemen," Sam said, his voice clipped, "The Gobbler has done its work. The eliminations are final. Now, the **DegenerateGames** begin in earnest. Here are your quarterfinals. No mercy. No waivers. No complaints."</p>
+<p>Mrs. Futrell answered the door, a sweet, elderly woman with teary eyes and a plate of warm snickerdoodles. She ushered them into a living room filled with photos of Jake losing participation trophies.</p>
+
+<p>"He was such a good boy," Mrs. Futrell sobbed, dabbing her eyes with a lace handkerchief. "He didn't care about the money. He just wanted to go to the forest. He kept talking about the 'Exam' this year. He said, 'Mama, I'm gonna become a Chunin this year! I'm gonna prove my Ninja Way in the woods!'"</p>
+
+<p>Pickle Rick burped. "Morty—I mean, Mrs. Futrell—your son choked on a metaphorical turkey bone. He didn't have enough chakra!"</p>
+
+<p>"Hush, Rick," Ice-T warned. He looked at the old lady. "The forest? You mean the Forest of Death?"</p>
+
+<p>Mrs. Futrell nodded, trembling. "He was so excited to play games in the forest. But he didn't make the cut. And now... only the survivors are there."</p>
+
+<p>Ice-T stood up, his face hardening. "The Forest of Death. That's where the Quarterfinals are happening. Let's roll."</p>
 
 <hr>
 
-<h3>🏆 QUARTERFINAL MATCHUPS 🏆</h3>
+<p style="text-align: center; font-size: 1.5em; font-weight: bold; color: #ff9900;">⚡ EPISODE 12: THE CHUNIN EXAMS BEGIN! ⚡</p>
+<p style="text-align: center; font-style: italic;">(Cue aggressive Japanese rock guitar intro)</p>
 
-<p>Sam pointed to the board, delivering the matchups with the cold precision of a man who believes he is untouchable:</p>
+<p>The scene shifts. The sky turns a violent shade of purple. The remaining eight managers stand before a towering chain-link fence. Behind it lies the <strong>Forest of Death</strong>, a tangled nightmare of massive trees and giant insects.</p>
 
-<ol>
-    <li>
-        <h4>#1 Seed Alex Harris (8-2) vs. #8 Seed Brett Newton (5-6)</h4>
-        <p><strong>Sam's Verdict:</strong> "The Mismatch of Mismatches. Alex, the 'High Roller,' takes on <strong>Brett, the human calculator</strong> who snuck in the back door as the 8th seed two years straight. Brett, you survived The Gobbler, but you're stepping into the mouth of a lion. Good luck engineering a defense for this one."</p>
-    </li>
-    <li>
-        <h4>#2 Seed Robby Henry (8-2) vs. #7 Seed Horrendous Henry's (5-6)</h4>
-        <p><strong>Sam's Verdict:</strong> "The Henry Family Feud. Cousin versus Brother-in-Law. Robby, the <strong>Hollywood elite</strong>, gets to beat up on the family. Alex Stephens, you clinched your spot by destroying Cole's dreams. See if you can survive the guy who actually stabbed Palmer."</p>
-    </li>
-    <li>
-        <h4>#3 Seed Tanner Maycumber (6-4) vs. #6 Seed Samwell Goodell (5-5)</h4>
-        <p><strong>Sam's Verdict:</strong> "Yes, I make the playoffs. Tanner, the **sleazy car salesman**, versus the Commissioner. You spent all week trying to trade away evidence, Tanner. I spent all week dealing with the pathetic cries of the eliminated. This is the only place I can assert control. Expect a commissioner's decree on Sunday."</p>
-    </li>
-    <li>
-        <h4>#4 Seed Steven Won (6-4) vs. #5 Seed Oliver Guice (6-4)</h4>
-        <p><strong>Sam's Verdict:</strong> "The Rivalry of Paranoia and Pride. Won, the **conspiracy theorist**, versus Oliver, the **NOLA-bred Bama fanatic**. The highest-scoring quarterfinal battle. You two have argued all year; now settle it. I expect an SEC-level bloodbath. And Won, I swear if you bring up the Epstein Files one more time, I'm dropping your kicker."</p>
-    </li>
-</ol>
+<p>In the center of the forest stands the <strong>Playoff Dome</strong>, a massive arena where the first leg of the exams—Week 12—has just concluded.</p>
 
-<p>Sam slammed his hand on the table, a satisfied look spreading across his face.</p>
+<p><strong>Commissioner Sam (Proctor Anko style):</strong> "Listen up, maggots! You have entered the Quarterfinals! This is a two-week survival test. Half of you will pass. Half of you will die. ENTER THE DOME!"</p>
 
-<p><strong>"The playoffs start now. Good luck, gentlemen. I'll see you all in the finals."</strong></p>
+<h3>⚔️ BATTLE 1: The Speed Force Massacre ⚔️</h3>
+<p><strong>Combatants:</strong> Alex Harris (FreeLuigi) vs. Brett Newton (Team mbrett2012)</p>
 
+<p>Inside the dome, <strong>Alex Harris</strong> hovered in the air, his chakra exploding in bursts of blue lightning. <strong>Brett Newton</strong>, the 8th seed who barely survived the Gobbler, stood his ground, channeling his energy into his MVP, Lamar Jackson.</p>
+
+<p>"I have the Dual-Threat Jutsu!" Brett screamed. "Lamar's legs will save me!"</p>
+
+<p>Alex Harris just laughed. "Your runner is fast, Brett. But my weapon is instantaneous."</p>
+
+<p>Alex weaved hand signs with blinding speed and summoned the <strong>Demon Spirit Jahmyr Gibbs</strong>. <em>"Hidden Art: Gibbs Light-Speed Slash!"</em></p>
+
+<p>Gibbs tore through the arena, moving so fast he became a blur. The impact was catastrophic. A massive score of <strong>144.66</strong> crashed down on Brett's head. Brett's Lamar defense crumbled under the weight, leaving him with a broken <strong>87.32</strong>. Brett was thrown against the dome wall, coughing up blood. He is still alive for Week 2, but he is crawling in the dirt, needing a miracle from the Sage of Six Paths to survive.</p>
+
+<h3>⚔️ BATTLE 2: The Commissioner's Dojutsu ⚔️</h3>
+<p><strong>Combatants:</strong> Samwell Goodell vs. Tanner Maycumber (Show Me Them TDs)</p>
+
+<p>Deep in the swampy sector of the dome, <strong>Tanner Maycumber</strong> tried to confuse the Commissioner with an aerial assault. "Summoning Jutsu: <strong>Dak Attack!</strong>" Tanner yelled, as a giant specter of Dak Prescott rained down passing yards from the sky.</p>
+
+<p>But <strong>Samwell Goodell</strong> stood calm, his arms crossed. He opened his eyes to reveal the <strong>Rashee Rice-gan</strong>.</p>
+
+<p>"Your air raid is impressive, Tanner," Sam whispered. "But my Rice technique is inevitable."</p>
+
+<p>Sam unleashed a spirit avatar of Rashee Rice, catching every projectile Tanner threw and turning it into pure explosive power. The impact left a crater. Sam stood tall with a power level of <strong>120.72</strong>, looking down at Tanner, whose Dak Jutsu could only muster <strong>102.36</strong>. Tanner is down, but not out. He gripped a kunai, preparing for the second week.</p>
+
+<h3>⚔️ BATTLE 3: The Conspiracy of Shadows ⚔️</h3>
+<p><strong>Combatants:</strong> Steven Won (Epstein List) vs. Oliver Guice (Team oliverguice)</p>
+
+<p>In the dark caves of the dome, <strong>Oliver Guice</strong> unveiled his newest, most expensive weapon. "I have acquired the ultimate ninja tool!" Oliver shouted. "Behold, the <strong>Justin Jefferson Blade!</strong>"</p>
+
+<p>Oliver swung the Jefferson Blade, expecting a legendary impact. But <strong>Steven Won</strong> was already inside his head.</p>
+
+<p>"That blade is a psy-op, Oliver! It's a distraction!"</p>
+
+<p>Won performed the <em>"Seattle Shadow Clone Jutsu,"</em> summoning <strong>Jaxon Smith-Njigba</strong>. Hundreds of JSN clones swarmed Oliver, catching passes from every angle and overwhelming Oliver's defenses. Oliver swung his Jefferson blade wildly, but he couldn't connect, his power suppressed to a mere <strong>80.66</strong>. Won stood over him, holding the high ground with a score of <strong>108.52</strong>, laughing maniacally as he pinned Oliver to the cavern wall.</p>
+
+<h3>⚔️ BATTLE 4: The Titan Clash ⚔️</h3>
+<p><strong>Combatants:</strong> Robby Henry vs. Alex Stephens (Horrendous Henry's)</p>
+
+<p>The most intense Taijutsu battle took place on the forest canopy. Cousin <strong>Robby Henry</strong> faced off against the Commissioner's brother-in-law, <strong>Alex Stephens</strong>.</p>
+
+<p>Alex Stephens roared, his skin turning iron-grey as he activated the <strong>"King Henry Curse Mark."</strong> Channeling the brute force of Derrick Henry, he charged forward. "I will trample you, Robby!"</p>
+
+<p>Robby didn't flinch. He channeled his chakra into his veteran sage, <strong>Davante Adams</strong>. "Your strength is great, Alex," Robby said calmly. "But my technique is refined."</p>
+
+<p>Robby utilized the <em>"Davante Route-Running Dance,"</em> dodging Derrick Henry's massive blows by inches. Robby struck back with precision, landing a combo of <strong>105.18</strong> points. Alex Stephens stumbled, his chakra draining to <strong>96.96</strong>. He wiped dirt from his cheek. He was hurt, but the margin is less than 10 points.</p>
+
+<p>"This isn't over, Robby!" Alex yelled. "The exam continues next week! King Henry will rise again!"</p>
+
+<hr>
+
+<div style="background-color: #f4f4f4; padding: 15px; border-left: 5px solid #ff9900; color: #333;">
+    <h3 style="margin-top: 0;">📜 THE HOKAGE'S BULLETIN: WEEK 12 UPDATES 📜</h3>
+    
+    <p>The dust settles on the first leg of the exams. Here are the updated overall records following the Week 12 battles:</p>
+    <ul>
+        <li><strong>Alex Harris (9-2)</strong> - <em>Dominating</em></li>
+        <li><strong>Robby Henry (9-2)</strong> - <em>Elite Status</em></li>
+        <li><strong>Steven Won (7-4)</strong> - <em>Climbing</em></li>
+        <li><strong>Sam McIntosh (7-5)</strong> - <em>Surviving</em></li>
+        <li><strong>Tanner Maycumber (6-5)</strong> - <em>Stumbling</em></li>
+        <li><strong>Oliver Guice (6-5)</strong> - <em>Wounded</em></li>
+        <li><strong>Brett Newton (5-7)</strong> - <em>Critical Condition</em></li>
+        <li><strong>Alex Stephens (5-7)</strong> - <em>Fighting Back</em></li>
+    </ul>
+
+    <h3 style="margin-top: 20px;">🎒 THE SCROLL OF WAIVERS: PRIORITY ORDER 🎒</h3>
+    <p>By decree of the Village Elders, the waiver wire priority for the playoffs resets weekly. The order is determined by <strong>Losses + Least Points</strong> first, followed by <strong>Wins + Most Points</strong>. The Eliminated Ninja (The Folded) pick last.</p>
+    
+    <p><strong>The Order for Week 13:</strong></p>
+    <ol>
+        <li><strong>Oliver Guice</strong> (Loss, 80.66 pts) - <em>First Pick</em></li>
+        <li><strong>Brett Newton</strong> (Loss, 87.32 pts)</li>
+        <li><strong>Alex Stephens</strong> (Loss, 96.96 pts)</li>
+        <li><strong>Tanner Maycumber</strong> (Loss, 102.36 pts)</li>
+        <li><strong>Robby Henry</strong> (Win, 105.18 pts)</li>
+        <li><strong>Steven Won</strong> (Win, 108.52 pts)</li>
+        <li><strong>Sam McIntosh</strong> (Win, 120.72 pts)</li>
+        <li><strong>Alex Harris</strong> (Win, 144.66 pts) - <em>Last of the Survivors</em></li>
+    </ol>
+    <p><em>*The Eliminated (Dyer, Palmer, Jake, Cole) may scavenge whatever scraps remain after the Ninja have fed.</em></p>
+</div>
+
+<p style="text-align: center; font-weight: bold; margin-top: 20px;">NEXT TIME ON BO-KNOWS-SHIPPUDEN: "THE FINAL EXAM! SURVIVAL OR EXILE!"</p>
 <hr>
 
 `;
