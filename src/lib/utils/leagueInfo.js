@@ -7,11 +7,9 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <video width="100%" controls autoplay muted loop playsinline>
-  <source src="https://img.mlbstatic.com/mlb-images/image/private/t_16x9/mlb/m3jhdhqhlb2avjmupmdh.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-  </video>
-  <p>In the fantasy football league known as BoKnowsDegenerates, the managers are separated by two distinct groups: <strong>The High Rollers</strong> playing for the championship, and <strong>The Folded</strong> who are just trying to survive. This week, the game got real. These are their stories.</p>
+  <img src="https://media1.tenor.com/m/olVBRcdIQvAAAAAd/rock-lee-speed.gif">
+
+<p>In the fantasy football league known as BoKnowsDegenerates, the managers are separated by two distinct groups: <strong>The High Rollers</strong> playing for the championship, and <strong>The Folded</strong> who are just trying to survive. This week, the game got real. These are their stories.</p>
 
 <p style="text-align: center; font-weight: bold; margin: 20px 0;">DUN DUN</p>
 
