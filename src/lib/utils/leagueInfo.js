@@ -97,12 +97,12 @@ export const homepageText = `
     
     <p>The dust settles on the first leg of the exams. Here are the updated overall records following the Week 12 battles:</p>
     <ul>
-        <li><strong>Alex Harris (9-2)</strong> - <em>Dominating</em></li>
+        <li><strong>Alex Harris (10-2)</strong> - <em>Dominating</em></li>
         <li><strong>Robby Henry (9-2)</strong> - <em>Elite Status</em></li>
-        <li><strong>Steven Won (7-4)</strong> - <em>Climbing</em></li>
+        <li><strong>Steven Won (8-4)</strong> - <em>Climbing</em></li>
         <li><strong>Sam McIntosh (7-5)</strong> - <em>Surviving</em></li>
-        <li><strong>Tanner Maycumber (6-5)</strong> - <em>Stumbling</em></li>
-        <li><strong>Oliver Guice (6-5)</strong> - <em>Wounded</em></li>
+        <li><strong>Tanner Maycumber (7-5)</strong> - <em>Stumbling</em></li>
+        <li><strong>Oliver Guice (6-6)</strong> - <em>Wounded</em></li>
         <li><strong>Brett Newton (5-7)</strong> - <em>Critical Condition</em></li>
         <li><strong>Alex Stephens (5-7)</strong> - <em>Fighting Back</em></li>
     </ul>
